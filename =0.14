@@ -1,0 +1,14 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting scikit-image
+  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/33/29/1d696450464d6e13358d3ef185a1fb14a11181c5dab1eb2837c02be86373/scikit_image-0.21.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (13.9 MB)
+Requirement already satisfied: numpy>=1.21.1 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (1.24.1)
+Requirement already satisfied: scipy>=1.8 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (1.10.1)
+Requirement already satisfied: networkx>=2.8 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (3.0)
+Requirement already satisfied: pillow>=9.0.1 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (10.2.0)
+Requirement already satisfied: imageio>=2.27 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (2.33.1)
+Requirement already satisfied: tifffile>=2022.8.12 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (2023.4.12)
+Requirement already satisfied: PyWavelets>=1.1.1 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (1.4.1)
+Requirement already satisfied: packaging>=21 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (24.1)
+Requirement already satisfied: lazy_loader>=0.2 in /home/bob/anaconda3/envs/nnMamba-main/lib/python3.8/site-packages (from scikit-image) (0.4)
+Installing collected packages: scikit-image
+Successfully installed scikit-image-0.21.0
